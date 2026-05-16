@@ -26,8 +26,7 @@ A small utility demonstrating:
 - Input validation
 - Loops
 - functions
-
-  More to come in the future.
 - Clean user prompts
+- Simple math logic
 
-Simple math logic
+More to come in the future.
