@@ -29,4 +29,15 @@ A small utility demonstrating:
 - Clean user prompts
 - Simple math logic
 
+🎮 4. Hangman (Defensive Programming Edition)
+A terminal‑based Hangman game built with a focus on safe input handling and clear game flow.
+Features:
+
+- Underscore‑based word reveal system
+- Defensive input validation (letters only, one character, no repeats)
+- Tracks guessed letters and remaining chances
+- Real‑time display updates
+
+
+
 More to come in the future.
